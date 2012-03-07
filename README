@@ -1,3 +1,4 @@
-The results of the final iteration of Global Day of Code Retreat 2011, Sydney.  Pairing with Matt Allen (@mattallen).
+Cataloguing implementations of Conway's Game of Life in a few different languages.
 
-Cleaned up a little and added a runner to seed and tick and display the grid.
+Ruby: The results of the final iteration of Global Day of Code Retreat 2011, Sydney.  Pairing with Matt Allen (@mattallen).
+Haskell: The results of a quick evening spike. No presentation, just an implementation of the algorithm.
